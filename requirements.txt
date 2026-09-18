@@ -1,0 +1,4 @@
+streamlit
+biopython
+primer3-py
+pandas
